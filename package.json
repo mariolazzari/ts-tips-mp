@@ -1,0 +1,12 @@
+{
+  "name": "ts-tips-mp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "derive-union": "ts-node src/derive-union"
+  },
+  "keywords": [],
+  "author": "Mario Lazzari",
+  "license": "ISC"
+}
